@@ -1,5 +1,5 @@
-s = int(input())
-t = int(input())
+s = (input())
+t = (input())
 
 print(t)
 print(s)
