@@ -3,5 +3,5 @@ b = float(input())
 c = float(input())
 
 print(a)
-print('%.2'%b)
-print('%.2'%c)
+print('%.2f'%b)
+print('%.2f'%c)
