@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+c = int(input())
+print('%.3f'%(a))
+print('%.3f'%(b))
+print('%.3f'%(c))
