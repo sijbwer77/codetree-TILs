@@ -1,3 +1,3 @@
-a = 5.26
-b = 3.14
+a = float(input())
+b = float(input())
 print('%.2f'%(a+b))
