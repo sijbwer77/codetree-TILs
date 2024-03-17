@@ -1,0 +1,5 @@
+m = input()
+m = m.split()
+a = int(m[0])
+b = int(m[1])
+print(a+b, a+2*b)
