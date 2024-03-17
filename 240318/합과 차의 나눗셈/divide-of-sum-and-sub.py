@@ -3,4 +3,4 @@ m = m.split()
 
 a = int(m[0])
 b = int(m[1])
-print('%.2s'%(a+b)/(a-b))
+print('%.2f'%((a+b)/(a-b)))
