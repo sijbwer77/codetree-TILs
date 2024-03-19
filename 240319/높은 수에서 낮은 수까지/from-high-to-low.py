@@ -1,7 +1,7 @@
 a,b = map(int,input().split())
 
 if a>b:
-    for i in range(b-a+1):
+    for i in range(a-b+1):
         print(a,end=' ')
         a = a-1
 if a<=b:
