@@ -7,4 +7,4 @@ for i in range(1,n):
 if a==n:
     print('P')
 else:
-    print(N)
+    print('N')
