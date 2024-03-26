@@ -1,6 +1,7 @@
 while True:
+    a=[]
     a = input().split()
-    if a[2]=='c':
+    if a[2]=='C':
         print(int(a[0])*int(a[1]))
         break
     else:
