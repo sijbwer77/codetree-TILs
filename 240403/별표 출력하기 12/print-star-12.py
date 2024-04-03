@@ -15,5 +15,5 @@ for i in range(1,n+1):
             print('  * '*int((n+2)/2-(i/2)))
             
         else:
-            print('    '*int((i+1)/2-1),end='')
+            print('    '*int((i+1)/2-2),end='')
             print('  * '*int((n+2)/2-(i/2)))
