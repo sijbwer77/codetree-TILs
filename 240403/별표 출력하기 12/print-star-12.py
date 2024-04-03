@@ -5,7 +5,7 @@ if n%2==1:
 else: n = l
 for i in range(1,n+1):
     if i==1:
-        print('* '*n)
+        print('* '*l)
     else:
         if i%2==0:
             print('    '*int(i/2-1),end='')
