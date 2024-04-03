@@ -1,7 +1,7 @@
 n = int(input())
 odd = False
 if n %2==1:
-    if n==0:
+    if n==1:
         print('*')
     n = n-1
     odd = True
