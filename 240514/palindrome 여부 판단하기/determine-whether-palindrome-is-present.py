@@ -1,6 +1,7 @@
 def tf(string):
     string1 = string
     string.reverse()
+    print(string1, string)
     if string == string1:
         print('Yes')
     else:
